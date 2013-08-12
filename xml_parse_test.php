@@ -26,7 +26,7 @@
  
 
   // Define the constants that would normally already exist or be defined at installation
-  define('USPS_USERNAME', '772PIRAT1819'); // <-- Replace the XXXXXX ONLY with a valid ID <--
+  define('USPS_USERNAME', '772xxxxx1819'); // <-- Replace the XXXXXX ONLY with a valid ID <--
   define('SHIPPING_ORIGIN_ZIP', 90012); // From Los Angeles
   define('SHIPPING_DOMESTIC_DEST_ZIP', 10004); // To New York
   define('SHIPPING_INTERNATIONAL_DEST_COUNTRY', 'Germany'); // Or to Germany
